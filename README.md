@@ -79,7 +79,7 @@ The task to be performed:
 
 1.	1. Create a database named employee, then import data_science_team.csv ,proj_table.csv and emp_record_table.csv  into the database from the given resources.
 
-2.Create an ER diagram for the given employee database.
+##2.Create an ER diagram for the given employee database.(Not shown in Github)
 
 3.Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and DEPARTMENT from the employee record table, and make a list of employees and details of their department.
 
